@@ -30,8 +30,8 @@ sudo make install
 To set the theme in GNOME, run the following commands in Terminal,
 
 ```sh
-gsettings set org.gnome.desktop.interface gtk-theme "Numix-Frost"
-gsettings set org.gnome.desktop.wm.preferences theme "Numix-Frost"
+gsettings set org.gnome.desktop.interface gtk-theme "Numix"
+gsettings set org.gnome.desktop.wm.preferences theme "Numix"
 ```
 
 ### For contributors
